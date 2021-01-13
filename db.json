@@ -1,0 +1,184 @@
+{
+  "content": [
+    {
+      "id": 1,
+      "codigoPostal": "01000",
+      "asentamiento": "San Ángel",
+      "tipoAsentamiento": "Colonia",
+      "municipio": "Álvaro Obregón",
+      "ciudad": "Ciudad de México",
+      "estado": "Ciudad de México"
+    },
+    {
+      "id": 2,
+      "codigoPostal": "01010",
+      "asentamiento": "Los Alpes",
+      "tipoAsentamiento": "Colonia",
+      "municipio": "Álvaro Obregón",
+      "ciudad": "Ciudad de México",
+      "estado": "Ciudad de México"
+    },
+    {
+      "id": 3,
+      "codigoPostal": "01020",
+      "asentamiento": "Guadalupe Inn",
+      "tipoAsentamiento": "Colonia",
+      "municipio": "Álvaro Obregón",
+      "ciudad": "Ciudad de México",
+      "estado": "Ciudad de México"
+    },
+    {
+      "id": 4,
+      "codigoPostal": "01030",
+      "asentamiento": "Axotla",
+      "tipoAsentamiento": "Pueblo",
+      "municipio": "Álvaro Obregón",
+      "ciudad": "Ciudad de México",
+      "estado": "Ciudad de México"
+    },
+    {
+      "id": 5,
+      "codigoPostal": "01030",
+      "asentamiento": "Florida",
+      "tipoAsentamiento": "Colonia",
+      "municipio": "Álvaro Obregón",
+      "ciudad": "Ciudad de México",
+      "estado": "Ciudad de México"
+    },
+    {
+      "id": 6,
+      "codigoPostal": "01040",
+      "asentamiento": "Campestre",
+      "tipoAsentamiento": "Colonia",
+      "municipio": "Álvaro Obregón",
+      "ciudad": "Ciudad de México",
+      "estado": "Ciudad de México"
+    },
+    {
+      "id": 7,
+      "codigoPostal": "01049",
+      "asentamiento": "Tlacopac",
+      "tipoAsentamiento": "Pueblo",
+      "municipio": "Álvaro Obregón",
+      "ciudad": "Ciudad de México",
+      "estado": "Ciudad de México"
+    },
+    {
+      "id": 8,
+      "codigoPostal": "01050",
+      "asentamiento": "Ex-Hacienda de Guadalupe Chimalistac",
+      "tipoAsentamiento": "Colonia",
+      "municipio": "Álvaro Obregón",
+      "ciudad": "Ciudad de México",
+      "estado": "Ciudad de México"
+    },
+    {
+      "id": 9,
+      "codigoPostal": "01060",
+      "asentamiento": "Altavista",
+      "tipoAsentamiento": "Colonia",
+      "municipio": "Álvaro Obregón",
+      "ciudad": "Ciudad de México",
+      "estado": "Ciudad de México"
+    },
+    {
+      "id": 10,
+      "codigoPostal": "01060",
+      "asentamiento": "San Ángel Inn",
+      "tipoAsentamiento": "Colonia",
+      "municipio": "Álvaro Obregón",
+      "ciudad": "Ciudad de México",
+      "estado": "Ciudad de México"
+    },
+    {
+      "id": 11,
+      "codigoPostal": "01070",
+      "asentamiento": "Chimalistac",
+      "tipoAsentamiento": "Colonia",
+      "municipio": "Álvaro Obregón",
+      "ciudad": "Ciudad de México",
+      "estado": "Ciudad de México"
+    },
+    {
+      "id": 12,
+      "codigoPostal": "01080",
+      "asentamiento": "Progreso Tizapan",
+      "tipoAsentamiento": "Colonia",
+      "municipio": "Álvaro Obregón",
+      "ciudad": "Ciudad de México",
+      "estado": "Ciudad de México"
+    },
+    {
+      "id": 13,
+      "codigoPostal": "01089",
+      "asentamiento": "Ermita Tizapan",
+      "tipoAsentamiento": "Colonia",
+      "municipio": "Álvaro Obregón",
+      "ciudad": "Ciudad de México",
+      "estado": "Ciudad de México"
+    },
+    {
+      "id": 14,
+      "codigoPostal": "01090",
+      "asentamiento": "La Otra Banda",
+      "tipoAsentamiento": "Barrio",
+      "municipio": "Álvaro Obregón",
+      "ciudad": "Ciudad de México",
+      "estado": "Ciudad de México"
+    },
+    {
+      "id": 15,
+      "codigoPostal": "01090",
+      "asentamiento": "Loreto",
+      "tipoAsentamiento": "Barrio",
+      "municipio": "Álvaro Obregón",
+      "ciudad": "Ciudad de México",
+      "estado": "Ciudad de México"
+    },
+    {
+      "id": 16,
+      "codigoPostal": "01090",
+      "asentamiento": "Tizapan",
+      "tipoAsentamiento": "Pueblo",
+      "municipio": "Álvaro Obregón",
+      "ciudad": "Ciudad de México",
+      "estado": "Ciudad de México"
+    },
+    {
+      "id": 17,
+      "codigoPostal": "01100",
+      "asentamiento": "Pólvora",
+      "tipoAsentamiento": "Colonia",
+      "municipio": "Álvaro Obregón",
+      "ciudad": "Ciudad de México",
+      "estado": "Ciudad de México"
+    },
+    {
+      "id": 18,
+      "codigoPostal": "01109",
+      "asentamiento": "La Conchita",
+      "tipoAsentamiento": "Colonia",
+      "municipio": "Álvaro Obregón",
+      "ciudad": "Ciudad de México",
+      "estado": "Ciudad de México"
+    },
+    {
+      "id": 19,
+      "codigoPostal": "01110",
+      "asentamiento": "Belém de las Flores",
+      "tipoAsentamiento": "Colonia",
+      "municipio": "Álvaro Obregón",
+      "ciudad": "Ciudad de México",
+      "estado": "Ciudad de México"
+    },
+    {
+      "id": 20,
+      "codigoPostal": "01110",
+      "asentamiento": "El Capulín",
+      "tipoAsentamiento": "Colonia",
+      "municipio": "Álvaro Obregón",
+      "ciudad": "Ciudad de México",
+      "estado": "Ciudad de México"
+    }
+  ]
+}
